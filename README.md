@@ -18,12 +18,14 @@ How to Use
 To get started, clone this repository to your local machine:
 ```csharp
 git clone https://github.com/your-username/simple-todo-app-csharp.git
-cd simple-todo-app-csharp ```
+cd simple-todo-app-csharp
+```
 
 2. Run the Application
 After cloning the repo, you can run the application using the .NET CLI:
 ```csharp
-dotnet run ```
+dotnet run
+```
 
 The app will open in the console, and you'll be able to perform the following actions:
 
@@ -45,8 +47,8 @@ Options:
 1 - Add Task
 2 - Delete Task
 3 - Mark Task as Done
-4 - Exit ```
-
+4 - Exit
+```
 How the App Works
 Display Tasks: The app will show a list of tasks, each marked as either completed or pending.
 Add Task: You can add a new task by providing a description.
